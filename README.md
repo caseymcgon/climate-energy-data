@@ -5,14 +5,14 @@ A Repository for  Climate, Environmental, &amp; Energy Data for students in the 
 #### Look here for collections of climate-related datasets:
  - climate
  - energy
-##### -  environment
-##### - renewables
-##### - storage
+ -  environment
+ - renewables
+ - storage / batteries
 
 ### Projects
 #### Look here for collections of climate-related projects:
-##### - past-projects
-##### - project-ideas
+ - past-projects
+ - project-ideas
 
 
 
