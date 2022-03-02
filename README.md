@@ -3,8 +3,8 @@ A Repository for  Climate, Environmental, &amp; Energy Data for students in the 
 
 ### Datasets
 #### Look here for collections of climate-related datasets:
-##### - climate
-##### - energy
+ - climate
+ - energy
 ##### -  environment
 ##### - renewables
 ##### - storage
