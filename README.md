@@ -1,4 +1,4 @@
-# climate-energy-data
+# **climate-energy-data**
 
 ## Climate, Environmental, &amp; Energy Data for students in the UC Berkeley School of Information (and any others!)
 
