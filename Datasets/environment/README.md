@@ -1,3 +1,6 @@
 ## Environmental Datasets
 
-1. 
+---
+
+#### [Awesome Forests Datasets](https://github.com/blutjens/awesome-forests)
+A curated list of ground-truth forest datasets for the machine learning and forestry community.
