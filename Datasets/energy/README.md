@@ -10,7 +10,7 @@ Potential Tasks: Analysis of operating costs @ diff power plants, predict future
 
 ---
 
-### [Maelstrom](https://catalyst.coop/pudl/)
+### [Maelstrom](https://www.maelstrom-eurohpc.eu/products-ml-apps.php#dataset-for-energy-production-forecast)
 #### Empowering Weather & Climate Forecasts w/ 6 main public datasets
 Datasets cover: energy production forecasts, temperature downscaling, precipitation & radiation
 
