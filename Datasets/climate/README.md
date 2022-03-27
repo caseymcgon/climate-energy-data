@@ -21,12 +21,11 @@ Emissions broken down by country, sector, subsector, year (since 2015)
 Focus seems to be: extreme weather, satellite imagery, & weather forecasting
 
 #
-
 ### [ClimateNet](https://github.com/andregraubner/ClimateNet)
 #### Data & Tools for "quick detection & tracking of extreme weather events", hosted on github
 data [source](https://portal.nersc.gov/project/ClimateNet/) & [original paper](https://portal.nersc.gov/project/ClimateNet/)
 
-
+#
 ### [Maelstrom](https://www.maelstrom-eurohpc.eu/products-ml-apps.php#dataset-for-energy-production-forecast)
 #### 6 main public datasets for Empowering Weather & Climate Forecasts 
 Includes data on: energy production forecasts, temperature downscaling, precipitation & radiation
