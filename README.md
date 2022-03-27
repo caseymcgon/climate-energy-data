@@ -4,12 +4,10 @@
 
 ### Datasets
 #### Look here for collections of climate-related datasets:
- - climate
- - energy
- -  environment
- - renewables
- - storage / batteries
-
+ - climate (generally: temperature & emissions data)
+ - energy (generally: energy generation & storage data)
+ - environment (generally: land, freshwater, ocean, & organics data)
+ 
 ### Projects
 #### Look here for collections of climate-related projects:
  - past-projects
