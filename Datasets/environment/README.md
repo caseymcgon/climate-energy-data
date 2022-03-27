@@ -3,6 +3,7 @@
 ### [AwesomeData -- EarthScience](https://github.com/awesomedata/awesome-public-datasets#earthscience)
 #### List of 12+ EarthScience datasets, hosted on github
 
+---
 ## Land-based Datasets
 
 ### [Awesome Forests Datasets](https://github.com/blutjens/awesome-forests)
