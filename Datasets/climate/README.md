@@ -11,5 +11,5 @@ Emissions broken down by country, sector, subsector, year (since 2015)
 #### API & Visualization resource for understanding recent emissions in US electricity
 
 
-## Temperature & Climate Data
+## Temperature & Other Climate 
 
