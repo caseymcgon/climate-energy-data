@@ -1,13 +1,9 @@
 # Energy Datasets
-## Utility-based Datasets
+## Utilities
 
 ### [PUDL -- Public Utility Data Liberation Project](https://catalyst.coop/pudl/)
 #### cleaned, standardized, and cross-linked utility data from different sources in a single database.
 Potential Tasks: Analysis of operating costs @ diff power plants, predict future energy generation, analysis of impact of fuel prices
-
----
-### [gridemissions: Tracking Emissions in the US electricity system](https://github.com/jdechalendar/gridemissions/)
-#### API & Visualization resource for understanding recent emissions in US electricity
 
 ---
 
@@ -23,8 +19,6 @@ Includes data on: energy production forecasts, temperature downscaling, precipit
 
 ---
 
-## Renewables-based Datasets
+## Renewables
 
-
-
-## Storage/Battery-based Datasets
+## Storage/Battery
