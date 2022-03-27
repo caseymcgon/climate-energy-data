@@ -17,6 +17,6 @@
 
 ### Other Resources We've Found Useful
 
-#### [NASA ARSET - Fundamentals of Remote Sensing Training](https://appliedsciences.nasa.gov/join-mission/training/english/arset-fundamentals-remote-sensing)
+NASA ARSET - Fundamentals of Remote Sensing [Training](https://appliedsciences.nasa.gov/join-mission/training/english/arset-fundamentals-remote-sensing)
 
 
