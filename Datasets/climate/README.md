@@ -8,8 +8,8 @@ Emissions broken down by country, sector, subsector, year (since 2015)
 
 ### [Gridemissions: Tracking Emissions in the US electricity system](https://github.com/jdechalendar/gridemissions/)
 #### API & Visualization resource for understanding recent emissions in US electricity
-#
 
+---
 ## Temperature, Precipiation & Other Climate 
 
 ### [Maelstrom](https://www.maelstrom-eurohpc.eu/products-ml-apps.php#dataset-for-energy-production-forecast)
