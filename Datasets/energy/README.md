@@ -13,12 +13,6 @@ Includes data on: Utility Finances & Investments, Utility Operations & Emissions
 
 #
 
-### [Maelstrom](https://www.maelstrom-eurohpc.eu/products-ml-apps.php#dataset-for-energy-production-forecast)
-#### Empowering Weather & Climate Forecasts w/ 6 main public datasets
-Includes data on: energy production forecasts, temperature downscaling, precipitation & radiation
-
-#
-
 ## Renewables
 
 ## Storage/Battery
