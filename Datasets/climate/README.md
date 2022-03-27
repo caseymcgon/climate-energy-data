@@ -10,7 +10,7 @@ Emissions broken down by country, sector, subsector, year (since 2015)
 #### API & Visualization resource for understanding recent emissions in US electricity
 
 ---
-## Temperature, Precipiation & Other Climate 
+## Weather & Climate
 
 ### [AwesomeData -- Climate+Weather](https://github.com/awesomedata/awesome-public-datasets#climate-weather)
 #### 20+ Climate & Weather Datasets, hosted on github
@@ -19,7 +19,14 @@ Emissions broken down by country, sector, subsector, year (since 2015)
 ### [Pangeo ML Datasets](http://mldata.pangeo.io/preprocessed_datasets.html)
 #### 20+ Weather-related datasets -- seems like very high quality, preprocessed datasets
 Focus seems to be: extreme weather, satellite imagery, & weather forecasting
+
 #
+
+### [ClimateNet](https://github.com/andregraubner/ClimateNet)
+#### Data & Tools for "quick detection & tracking of extreme weather events", hosted on github
+data [source](https://portal.nersc.gov/project/ClimateNet/) & [original paper](https://portal.nersc.gov/project/ClimateNet/)
+
+
 ### [Maelstrom](https://www.maelstrom-eurohpc.eu/products-ml-apps.php#dataset-for-energy-production-forecast)
 #### 6 main public datasets for Empowering Weather & Climate Forecasts 
 Includes data on: energy production forecasts, temperature downscaling, precipitation & radiation
