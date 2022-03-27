@@ -1,4 +1,8 @@
 # Energy Datasets
+
+### [AwesomeData -- Energy](https://github.com/awesomedata/awesome-public-datasets#energy)
+#### List of 20+ energy datasets, hosted on github
+
 ## Utilities
 
 ### [PUDL -- Public Utility Data Liberation Project](https://catalyst.coop/pudl/)
