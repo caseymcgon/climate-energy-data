@@ -13,8 +13,12 @@ Emissions broken down by country, sector, subsector, year (since 2015)
 ## Temperature, Precipiation & Other Climate 
 
 ### [AwesomeData -- Climate+Weather](https://github.com/awesomedata/awesome-public-datasets#climate-weather)
-#### 20+ weather & Climate Datasets, hosted on github
+#### 20+ Climate & Weather Datasets, hosted on github
 
+#
+### [Pangeo ML Datasets](http://mldata.pangeo.io/preprocessed_datasets.html)
+#### 20+ Weather-related datasets -- seems like very high quality, preprocessed datasets
+Focus seems to be: extreme weather, satellite imagery, & weather forecasting
 #
 ### [Maelstrom](https://www.maelstrom-eurohpc.eu/products-ml-apps.php#dataset-for-energy-production-forecast)
 #### 6 main public datasets for Empowering Weather & Climate Forecasts 
