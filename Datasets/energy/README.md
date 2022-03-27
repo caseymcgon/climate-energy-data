@@ -1,4 +1,5 @@
-## Energy Datasets
+# Energy Datasets
+## Utility-based Datasets
 
 ### [PUDL -- Public Utility Data Liberation Project](https://catalyst.coop/pudl/)
 #### cleaned, standardized, and cross-linked utility data from different sources in a single database.
@@ -22,3 +23,8 @@ Includes data on: energy production forecasts, temperature downscaling, precipit
 
 ---
 
+## Renewables-based Datasets
+
+
+
+## Storage/Battery-based Datasets
