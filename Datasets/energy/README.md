@@ -11,8 +11,9 @@ Potential Tasks: Analysis of operating costs @ diff power plants, predict future
 #### Helps regulators, investors, policymakers, advocates, and utilities chart a path to an equitable and affordable energy transition
 Includes data on: Utility Finances & Investments, Utility Operations & Emissions, Customer & community Impacts, Alignment of utility commitments w/ 1.5°C, policy & regulatory framerwork for utilities
 
-#
 
+
+---
 ## Renewables
 
 ## Storage/Battery
