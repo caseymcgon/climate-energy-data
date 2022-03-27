@@ -10,7 +10,7 @@ Suggested Tasks: Tree Classification, Tree Detection, Carbon quantification, Cha
 ## Freshwater-based Datasets
 
 ### [Awesome-Cryosphere](https://github.com/awesome-cryosphere/cryosphere-links)
-#### A curated list of data sources, models, tools, & orgs related to Ice on earth
+#### A curated list of data sources, models, tools, & orgs related to Ice on earth, hosted on github
 Suggested Tasks: Analysis of snow, glaciers, & sea ice, classifying ice type, quantifying ice flow, change detection, etc.
 
 ---
