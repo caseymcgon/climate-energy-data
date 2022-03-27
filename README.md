@@ -4,7 +4,7 @@
 
 ### Datasets
 #### Look here for collections of climate-related datasets:
- - climate (generally: temperature & emissions data)
+ - climate (generally: temperature & ghg emissions data)
  - energy (generally: energy generation & storage data)
  - environment (generally: land, freshwater, ocean, & organics data)
  
