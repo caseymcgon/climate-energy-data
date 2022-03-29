@@ -14,6 +14,7 @@ Suggested Tasks: Tree Classification, Tree Detection, Carbon quantification, Cha
 ### [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
 #### A curated list of satellite image datasets, hosted on github
 Broken down into the following tasks: Instance Segmentation, Object Detection, Semantic Segmentation, Scene Classification, Other Focus/Multiple Tasks
+
 Please note: not all these datasets are strictly earth/land focused, but there are a substantial amount of environment/earth datasets
 
 ----
