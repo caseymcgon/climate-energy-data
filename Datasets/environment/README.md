@@ -2,6 +2,7 @@
 
 ### [AwesomeData -- EarthScience](https://github.com/awesomedata/awesome-public-datasets#earthscience)
 #### List of 12+ EarthScience datasets, hosted on github
+Includes: USGS Earthquake Archives, Volcanic Activity Database, Wide variety of marine data, NASA's earth observing system data, Global Water resources data, etc.
 
 #
 ### [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
