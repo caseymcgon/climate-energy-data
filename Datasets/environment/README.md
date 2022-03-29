@@ -1,4 +1,4 @@
-# Environmental Datasets
+# **Environmental Datasets**
 
 ### [AwesomeData -- EarthScience](https://github.com/awesomedata/awesome-public-datasets#earthscience)
 #### List of 12+ EarthScience datasets, hosted on github
@@ -13,7 +13,7 @@ Please note: not all these datasets are strictly earth/land focused, but there a
 
 
 ---
-## Land-based Datasets
+# Land-based Datasets
 
 ### [Awesome Forests Datasets](https://github.com/blutjens/awesome-forests)
 #### A curated list of many ground-truth forest datasets, hosted on github
