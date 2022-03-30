@@ -21,6 +21,11 @@ Emissions broken down by country, sector, subsector, year (since 2015)
 Focus seems to be: extreme weather, satellite imagery, & weather forecasting
 
 #
+### [Earth Surface Temperature Data (ca. 1750 - 2013)](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data)
+#### 5 datasets that have avg monthly temperature at different places around the world, hosted on kaggle
+Original data comes from [Berkeley Earth](http://berkeleyearth.org/), which has more, in-depth data if you want to look there
+
+#
 ### [ClimateNet](https://github.com/andregraubner/ClimateNet)
 #### Data & Tools for "quick detection & tracking of extreme weather events", hosted on github
 data [source](https://portal.nersc.gov/project/ClimateNet/) & [original paper](https://portal.nersc.gov/project/ClimateNet/)
