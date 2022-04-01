@@ -33,14 +33,15 @@ Suggested Tasks: Analysis of snow, glaciers, & sea ice, classifying ice type, qu
 #### A research dataset of thousands of ocean 'floats' that track temperature, salinity, and pressure of oceans around the world
 
 #
+### [Sofar Ocean Datasets](https://www.sofarocean.com/products/sofar-data-services)
+#### APIs serving data on wind, waves, currents, and surface temperature all over the worlds oceans
+You can apply for a free academic license to access their APIs without cost!
+
+#
 ### [Allen Coral Reef Atlas](https://allencoralatlas.org/atlas/#1.00/-16.4490/146.2802)
 #### Complete global habitat maps & satellite data of the world's tropical, shallow coral reefs
 Dataset download [instructions](https://storage.googleapis.com/coral-atlas-static-files/resources-page-materials/Data_Download_Instructions.pdf)
 
-#
-### [Sofar Ocean Datasets](https://www.sofarocean.com/products/sofar-data-services)
-#### APIs serving data on wind, waves, currents, and surface temperature all over the worlds oceans
-You can apply for a free academic license to access their APIs without cost!
 
 ---
 
