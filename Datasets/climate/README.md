@@ -1,6 +1,6 @@
 # Climate Datasets
 
-## GHG Emissions
+## GHG Datasets
 ### [Climate TRACE Emissions Inventory](https://www.climatetrace.org/inventory)
 #### Comprehensive accounting of gloabl ghg emissions based on direct, independent observation
 Emissions broken down by country, sector, subsector, year (since 2015)
@@ -8,6 +8,11 @@ Emissions broken down by country, sector, subsector, year (since 2015)
 
 ### [Gridemissions: Tracking Emissions in the US electricity system](https://github.com/jdechalendar/gridemissions/)
 #### API & Visualization resource for understanding recent emissions in US electricity
+
+#
+### [Monoa Loa CO2 dataset (& other atmospheric measures](https://gml.noaa.gov/dv/data/index.php?site=MLO)
+### The infamous dataset showing rising CO2 from 1969 - present
+Can also inspect other atmospheric measures & other monitoring stations (ie. different sites)
 
 ---
 ## Weather & Climate
