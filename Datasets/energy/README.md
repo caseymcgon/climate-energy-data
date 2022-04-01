@@ -24,6 +24,12 @@ Includes data on: Utility Finances & Investments, Utility Operations & Emissions
 ### [Global Power Plant Database](https://datasets.wri.org/dataset/globalpowerplantdatabase)
 #### 35,000 power plants across 167 counties w/ geolocation, plant capacity, generation, ownership, fuel type
 
+#
+### [Ember -- data to shift the world from coal to clean energy](https://ember-climate.org/data/data-explorer/)
+#### Data from every country on earth on electricity generation, capacity, emissions, intensity, demand
+Focus is on coal, but they have data on all types of electricity generation. You can visualize your data, then choose to download it once satisfied
+
+
 ---
 ## Renewables
 
