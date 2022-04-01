@@ -20,8 +20,15 @@ Includes data on: Utility Finances & Investments, Utility Operations & Emissions
 ### [Global Energy Monitor](https://globalenergymonitor.org/)
 #### Have datasets tracking mines & plants for Coal, O&G, Solar, Wind, Hydro, Nuclear, etc.
 
+#
+### [Global Power Plant Database](https://datasets.wri.org/dataset/globalpowerplantdatabase)
+#### 35,000 power plants across 167 counties w/ geolocation, plant capacity, generation, ownership, fuel type
 
 ---
 ## Renewables
+
+### [Open Energy Dta Initiative -- Solar Generation, Capacity, & Value](https://data.openei.org/submissions/4503)
+#### Lawrence Berkeley National Labs dataset on solar projects (both residential & larger-scale). 2012 - 2020
+This website has a lot of other open source energy data. Can dig into more datasets if interested
 
 ## Storage/Battery
