@@ -7,6 +7,11 @@
 ### [Electricity Map](https://app.electricitymap.org/map)
 #### Map & [API](https://static.electricitymap.org/api/docs/index.html) with data on where electricity in an area comes from and how carbon-intensive its production is
 
+#
+### [US Energy Use Dashboard](http://www.departmentof.energy/)
+#### Flowchart tracking where every unit of energy enters the economy & how it is used as it passed through
+Can also export all the data to CSV in the top right corner
+
 ---
 ## Utilities
 
