@@ -11,7 +11,7 @@ Emissions broken down by country, sector, subsector, year (since 2015)
 
 #
 ### [Climatiq](https://www.climatiq.io/)
-#### API for measuring Carbon Emissions when & where they happen.
+#### API for measuring GHG Emissions when & where they happen.
 
 #
 ### [Monoa Loa CO2 dataset (& other atmospheric measures)](https://gml.noaa.gov/dv/data/index.php?site=MLO)
