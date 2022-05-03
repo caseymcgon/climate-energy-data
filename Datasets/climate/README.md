@@ -18,6 +18,10 @@ Emissions broken down by country, sector, subsector, year (since 2015)
 #### The infamous dataset showing rising CO2 from 1969 - present
 Can also inspect other atmospheric measures & other monitoring stations (ie. different sites)
 
+#
+### [Global Registry of Fosssil Fuels](https://fossilfuelregistry.org/)
+#### API for understanding where each country's GHG emissions come from
+
 ---
 ## Weather & Climate
 
