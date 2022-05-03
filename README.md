@@ -17,6 +17,6 @@ please note: there is some crossover (ie. tracking water temp & currents in the 
 
 ### Other Resources We've Found Useful
 
-NASA ARSET - Fundamentals of Remote Sensing [Training](https://appliedsciences.nasa.gov/join-mission/training/english/arset-fundamentals-remote-sensing)
+NASA ARSET - [Fundamentals of Remote Sensing Training](https://appliedsciences.nasa.gov/join-mission/training/english/arset-fundamentals-remote-sensing)
 
-
+TorchGeo - [PyTorch Domain Library for Geospatial Data](https://github.com/microsoft/torchgeo)
