@@ -3,6 +3,10 @@
 ### [AwesomeData -- Energy](https://github.com/awesomedata/awesome-public-datasets#energy)
 #### List of 20+ energy datasets, hosted on github
 
+#
+### [Electricity Map](https://app.electricitymap.org/map)
+#### Map & [API](https://static.electricitymap.org/api/docs/index.html) with data on where electricity in an area comes from and how carbon-intensive its production is
+
 ---
 ## Utilities
 
