@@ -2,7 +2,7 @@
 
 ## Climate, Environmental, &amp; Energy Data for students in the UC Berkeley School of Information (and any others!)
 
-### Datasets
+### [Datasets](https://github.com/caseymcgon/climate-energy-data/tree/main/Datasets)
 #### Look here for collections of climate-related datasets:
  - **climate** (generally: temperature & ghg emissions data)
  - **energy** (generally: energy generation & storage data)
