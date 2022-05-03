@@ -10,6 +10,10 @@ Emissions broken down by country, sector, subsector, year (since 2015)
 #### API & Visualization resource for understanding recent emissions in US electricity
 
 #
+### [Climatiq](https://www.climatiq.io/)
+#### API for measuring Carbon Emissions when & where they happen.
+
+#
 ### [Monoa Loa CO2 dataset (& other atmospheric measures)](https://gml.noaa.gov/dv/data/index.php?site=MLO)
 #### The infamous dataset showing rising CO2 from 1969 - present
 Can also inspect other atmospheric measures & other monitoring stations (ie. different sites)
