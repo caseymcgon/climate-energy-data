@@ -10,7 +10,7 @@
 
 please note: there is some crossover (ie. tracking water temp & currents in the ocean could be climate or environment), so look in the other directories if you can't find your exact data)
  
-### Projects
+### [Projects](https://github.com/caseymcgon/climate-energy-data/tree/main/Projects)
 #### Look here for collections of climate-related projects:
  - past-projects
  - project-ideas
