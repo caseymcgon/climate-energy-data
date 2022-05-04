@@ -42,8 +42,9 @@ Focus is on coal, but they have data on all types of electricity generation. You
 ---
 ## Renewables
 
-### [National Renewable Energy Laboratory Developer Network](https://developer.nrel.gov/docs/)
-#### APIs for Accessing energy data in the following categories: Buildings, Electricity, Energy Optimization, Partnering, Solar, Transportation, Wave, Wind
+### [NREL - National Renewable Energy Laboratory](https://developer.nrel.gov/docs/)
+#### APIs for Accessing NREL's energy data 
+Data covers the following categories: Buildings, Electricity, Energy Optimization, Partnering, Solar, Transportation, Wave, Wind
 
 #
 ### [Open Energy Data Initiative -- Solar](https://data.openei.org/submissions/4503)
