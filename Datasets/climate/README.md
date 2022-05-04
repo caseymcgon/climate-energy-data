@@ -22,6 +22,10 @@ Can also inspect other atmospheric measures & other monitoring stations (ie. dif
 ### [Global Registry of Fosssil Fuels](https://fossilfuelregistry.org/)
 #### API for understanding where each country's GHG emissions come from
 
+#
+### [EDGAR - Emissions Database for Global Atmospheric Research](https://edgar.jrc.ec.europa.eu/)
+#### Has data 1970 - present on global GHG emissions; Can be broken down by country & further
+
 ---
 ## Weather & Climate
 
