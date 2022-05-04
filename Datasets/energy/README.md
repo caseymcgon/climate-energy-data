@@ -42,7 +42,11 @@ Focus is on coal, but they have data on all types of electricity generation. You
 ---
 ## Renewables
 
-### [Open Energy Data Initiative -- Solar Generation, Capacity, & Value](https://data.openei.org/submissions/4503)
+### [National Renewable Energy Laboratory Developer Network](https://developer.nrel.gov/docs/)
+#### APIs for Accessing energy data in the following categories: Buildings, Electricity, Energy Optimization, Partnering, Solar, Transportation, Wave, Wind
+
+#
+### [Open Energy Data Initiative -- Solar](https://data.openei.org/submissions/4503)
 #### Lawrence Berkeley National Labs dataset on solar projects (both residential & larger-scale). 2012 - 2020
 This website has a lot of other open source energy data. Can dig into more datasets if interested
 
