@@ -23,7 +23,7 @@ Includes data on: crops, tropical storms, building footprints, wildfires, floods
 Suggested Tasks: Tree Classification, Tree Detection, Carbon quantification, Change Detection, etc.
 
 #
-### [Dynamic World - Land Use Dataset](https://www.dynamicworld.app/)
+### [Land Use Dataset - Dynamic World](https://www.dynamicworld.app/)
 #### Near realtime land cover dataset at 10M resolution
 #### 9 categories: water, trees, grass, crops, shrub & scrub, flooded vegetation, built up area, bare ground, snow & ice
 
