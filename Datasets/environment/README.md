@@ -22,6 +22,11 @@ Includes data on: crops, tropical storms, building footprints, wildfires, floods
 #### A curated list of many ground-truth forest datasets, hosted on github
 Suggested Tasks: Tree Classification, Tree Detection, Carbon quantification, Change Detection, etc.
 
+#
+### [Dynamic World - Land Use Dataset](https://www.dynamicworld.app/)
+#### Near realtime land cover dataset at 10M resolution
+#### 9 categories: water, trees, grass, crops, shrub & scrub, flooded vegetation, built up area, bare ground, snow & ice
+
 ----
 ## Freshwater & Ice-based Datasets
 
