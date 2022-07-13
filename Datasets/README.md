@@ -10,7 +10,8 @@ Also includes an [API](https://planetarycomputer.microsoft.com/docs/overview/abo
 
 #
 ### [Subak Data Catalogue](https://data.subak.org/)
-#### Website with the goal of making "climate data more disoverable; more trusted; and more connected". Can also request datasets through their website
+#### Website with the goal of making "climate data more disoverable; more trusted; and more connected". 
+Can also request datasets through their website
 
 #
 ### [KKulma - Climate Change Data](https://github.com/KKulma/climate-change-data)
